@@ -1,14 +1,18 @@
-Cab Investment Firm EDA Report
+#Cab Investment Firm EDA Report
 Project Summary
 XYZ, a private firm in the United States, is considering investing in the rapidly growing cab industry. To make an informed investment decision, XYZ has commissioned an exploratory data analysis (EDA) project focusing on two key players in the market. The objective of this project is to analyze given datasets to derive actionable insights that will guide XYZ in identifying the most promising cab company for their investment. The deliverable is a comprehensive presentation to XYZ's executive team, evaluated based on analysis quality, visualizations, and the value of insights and recommendations.
 
 Datasets
 The analysis is based on four datasets provided for the period from January 31, 2016, to December 31, 2018:
 
-Cab_Data.csv: Overview of two cab companies.
-Customer_ID.csv: Demographic details of customers.
-Transaction_ID.csv: Mapping of transactions to customers and payment modes.
-City.csv: List of US cities with population and number of cab users.
+1. Cab_Data.csv: Overview of two cab companies.
+   
+3. Customer_ID.csv: Demographic details of customers.
+
+3.Transaction_ID.csv: Mapping of transactions to customers and payment modes.
+
+4.City.csv: List of US cities with population and number of cab users.
+
 Methodology
 Load Data: Load datasets into pandas DataFrames.
 Inspect Data: Examine structure and content.
