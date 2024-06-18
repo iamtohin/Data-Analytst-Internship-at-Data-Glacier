@@ -66,6 +66,7 @@ Seasonal Trends: Consistent trip distances and service reliability.
 Based on the evaluation, investing in Yellow Cab is recommended due to its superior performance, stable and profitable investment opportunity, consistent demand, broad customer base, and effective pricing strategies.
 
 
-Prepared by: Mohammad Tohin Bapari
+## Prepared by: 
+Mohammad Tohin Bapari
 Data Analyst Intern, Data Glacier
 Date: 15 June 2024
