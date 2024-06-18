@@ -9,37 +9,59 @@ The analysis is based on four datasets provided for the period from January 31, 
    
 3. Customer_ID.csv: Demographic details of customers.
 
-3.Transaction_ID.csv: Mapping of transactions to customers and payment modes.
+3. Transaction_ID.csv: Mapping of transactions to customers and payment modes.
 
-4.City.csv: List of US cities with population and number of cab users.
+4. City.csv: List of US cities with population and number of cab users.
 
 ## Methodology
 Load Data: Load datasets into pandas DataFrames.
+
 Inspect Data: Examine structure and content.
+
 Data Cleaning: Handle missing values and correct data types.
+
 Data Integration: Merge datasets into a comprehensive dataset.
+
 Exploratory Analysis: Perform descriptive statistics and visualizations.
+
 Feature Engineering: Create new features if necessary.
+
 Analysis for Recommendations: Identify key metrics and trends.
+
 Prepare Presentation: Create visualizations and summaries to communicate findings.
+
 ## Key Exploratory Data Analysis
 Total Transactions by Month
+
 Distribution of Travel Distances
+
 Price vs Distance
+
 Transaction Counts by Year
+
 Cost and Price Analysis
+
 User and Transaction Distribution by City
+
 Gender Distribution
+
 Profit Margin Analysis
+
 Monthly Margin vs. Transaction Count
+
 Correlation Analysis
+
 ## Key Findings
 After evaluating Yellow Cab and Pink Cab, Yellow Cab is recommended as the superior investment choice based on the following factors:
 
 Customer Reach: Yellow Cab has a broader customer base and higher transaction volumes across cities.
+
 Profit Analysis: Higher profit margins and better revenue optimization.
+
 Demand Trends: Steady demand, growing popularity, and flexible payment options.
+
 Seasonal Trends: Consistent trip distances and service reliability.
+
 Recommendations
 Based on the evaluation, investing in Yellow Cab is recommended due to its superior performance, stable and profitable investment opportunity, consistent demand, broad customer base, and effective pricing strategies.
 
