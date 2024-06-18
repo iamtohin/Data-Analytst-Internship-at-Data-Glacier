@@ -1,5 +1,5 @@
-#Cab Investment Firm EDA Report
-Project Summary
+# Cab Investment Firm EDA Report
+## Project Summary
 XYZ, a private firm in the United States, is considering investing in the rapidly growing cab industry. To make an informed investment decision, XYZ has commissioned an exploratory data analysis (EDA) project focusing on two key players in the market. The objective of this project is to analyze given datasets to derive actionable insights that will guide XYZ in identifying the most promising cab company for their investment. The deliverable is a comprehensive presentation to XYZ's executive team, evaluated based on analysis quality, visualizations, and the value of insights and recommendations.
 
 Datasets
