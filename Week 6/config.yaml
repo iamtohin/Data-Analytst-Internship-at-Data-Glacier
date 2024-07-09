@@ -1,0 +1,11 @@
+columns:
+- source_item_id
+- edge_property_id
+- target_item_id
+dataset_name: statements
+file_name: statements
+file_type: csv
+inbound_delimiter: ','
+outbound_delimiter: '|'
+skip_leading_rows: 0
+table_name: table
