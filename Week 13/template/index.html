@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drug Persistency Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Drug Persistency Prediction</h1>
+        <form action="/predict" method="post">
+            <!-- Add form fields for each feature required by the model -->
+            <label for="feature1">Feature 1:</label>
+            <input type="text" id="feature1" name="feature1" required>
+            
+            <!-- Add more fields as required -->
+            
+            <button type="submit">Predict</button>
+        </form>
+        {% if pred_logistic %}
+        <h2>Predictions:</h2>
+        <p>Logistic Regression: {{ pred_logistic }}</p>
+        <p>Random Forest: {{ pred_rf }}</p>
+        <p>Gradient Boosting: {{ pred_gb }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
